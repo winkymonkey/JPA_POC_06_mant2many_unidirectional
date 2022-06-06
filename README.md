@@ -1,1 +1,1 @@
-# JPA_POC_06_mant2many_unidirectional
+# JPA_POC_06_many2many_unidirectional
